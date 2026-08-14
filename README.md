@@ -1,4 +1,4 @@
-# 📝 Sign-In / Registration Page
+# 📝 Sign-up / Registration Page
 
 A clean and modern **Sign-In / Registration page** created using HTML and CSS.
 
